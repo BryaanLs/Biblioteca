@@ -1,0 +1,226 @@
+* {
+    height: 100%;
+    margin: 0;
+    position: 0px;
+    text-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topbar button a {
+    background-color: black;
+    width: 200px;
+    height: 15px;
+}
+
+/*      */
+body {
+    background-color: #101728;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+header {
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: max-content;
+}
+
+.topbar {
+    height: 50px;
+    padding: 5px 5px 5px 5px;
+    background-color: rgba(104, 126, 147, 0.27);
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+
+.logo-left {
+    height: max-content;
+    font-family: Arial;
+    position: relative;
+    font-size: 12px;
+    font-weight: bold;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    width: max-content;
+    display: flex;
+    left: 28px;
+}
+
+.user_login,
+.user_login form {
+    color: white;
+    font-weight: bold;
+    width: max-content;
+    height: max-content;
+}
+
+
+
+.user_cadastro_e,
+.user_cadastro_d {
+    color: white;
+    width: max-content;
+    font-weight: bold;
+    height: max-content;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.user_cadastro_d {
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+input {
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    height: 25px;
+    box-shadow: 1px 1px 1px#030303;
+    text-align: center;
+
+}
+
+
+button {
+    text-align: center;
+    border-radius: 25px;
+    align-content: center;
+    border: none;
+    background-image: linear-gradient(to right, #FF3C5F, #9340FF);
+    cursor: pointer;
+}
+
+.user_login {
+    position: absolute;
+    right: 160px;
+}
+
+.btn_login {
+    position: absolute;
+    right: 30px;
+
+}
+
+header button {
+    width: 120px;
+    height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+main button {
+    width: 120px;
+    height: 35px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/*---------------DIMENSIONAMENTO--------------*/
+
+
+.card_cadastro {
+
+    display: flex;
+    padding: 5px 5px 5px 5px;
+    background-color: rgba(104, 126, 147, 0.27);
+    width: 900px;
+    height: 400px;
+    border-radius: 4px;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 1px 1px#030303;
+}
+
+
+.card_cadastro h1 {
+    width: max-content;
+    height: max-content;
+    color: white;
+    position: relative;
+    bottom: 15px;
+
+}
+
+button:hover {
+    transition: 200ms;
+    box-shadow: 3px 3px 6px black;
+    color: white;
+    transform: translatey(-2px);
+}
+
+header img {
+    width: 35px;
+    height: 35px;
+}
+
+main {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.topbar h1 {
+    height: max-content;
+    display: flex;
+    margin-left: 45px;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+
+}
+
+/*configurando formulario*/
+main form {
+    width: auto;
+    height: max-content;
+    display: flex;
+}
+
+main form input {
+    width: 230px;
+    height: 28px;
+    margin-bottom: 9%;
+
+}
+
+main form label {
+    font-size: 18px;
+}
+
+main button {
+    margin: 5px 10px 10px 5px;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+
+}
+
+::-webkit-scrollbar-track {
+    background-color: rgba(255, 255, 255, 0.55);
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(10, 4, 64);
+    border-radius: 5px;
+}

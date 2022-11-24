@@ -1,0 +1,5 @@
+Projeto proposto pela PUCPR para criar um sistema de coisas emprestadas!
+
+Fiz um sistema simples porém bem funcional de uma biblioteca virtual!
+Esse projeto foi meu primeiro contato com programação web no Front end e também no Back end!
+

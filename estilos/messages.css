@@ -1,0 +1,256 @@
+.erroL {
+    background-image: url(../imagens/erro.ico);
+    background-repeat: no-repeat;
+    background-position: left center;
+    color: #f77f7f;
+    font-size: 15px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 240px;
+    height: 30px;
+    border-radius: 5px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+
+.sucess {
+    background-image: url(../imagens/correto.ico);
+    background-size: 16px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    color: #7ff783;
+    font-size: 15px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 260px;
+    height: 30px;
+    border-radius: 5px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+.sucesso {
+    background-image: url(../imagens/correto.ico);
+    background-size: 16px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    color: #7ff783;
+    font-size: 15px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 670px;
+    height: 30px;
+    border-radius: 5px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+.erro {
+    background-image: url(../imagens/erro.ico);
+    background-repeat: no-repeat;
+    background-position: left center;
+    color: #f77f7f;
+    font-size: 15px;
+    position: relative;
+    bottom: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.datam {
+    background-image: url(../imagens/erro.ico);
+    background-repeat: no-repeat;
+    background-position: left center;
+    color: #f77f7f;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 430px;
+    height: 30px;
+    border-radius: 5px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+.dataM {
+    background-image: url(../imagens/erro.ico);
+    background-repeat: no-repeat;
+    background-position: left center;
+    color: #f77f7f;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 450px;
+    height: 30px;
+    border-radius: 5px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+.dataL {
+    background-image: url(../imagens/erro.ico);
+    background-repeat: no-repeat;
+    background-position: left center;
+    color: #f77f7f;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 500px;
+    height: 30px;
+    border-radius: 5px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.senbd {
+    background-image: url(../imagens/erro.ico);
+    background-repeat: no-repeat;
+    background-position: left center;
+    color: #f77f7f;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 240px;
+    height: 30px;
+    border-radius: 5px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.newp {
+    background-image: url(../imagens/erro.ico);
+    background-repeat: no-repeat;
+    background-position: left center;
+    color: #f77f7f;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 205px;
+    height: 30px;
+    border-radius: 5px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.namei {
+    background-image: url(../imagens/erro.ico);
+    background-repeat: no-repeat;
+    background-position: left center;
+    color: #f77f7f;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 295px;
+    height: 30px;
+    border-radius: 5px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.exis {
+    background-image: url(../imagens/erro.ico);
+    background-repeat: no-repeat;
+    background-position: left center;
+    color: #f77f7f;
+    font-size: 15px;
+    position: relative;
+    bottom: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 220px;
+    height: 30px;
+    border-radius: 5px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.cad {
+    background-image: url(../imagens/correto.ico);
+    background-size: 16px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    color: #7ff783;
+    font-size: 15px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 215px;
+    height: 30px;
+    border-radius: 5px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+.erro1 {
+    background-image: url(../imagens/erro.ico);
+    background-repeat: no-repeat;
+    background-position: left center;
+    color: #f77f7f;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 275px;
+    height: max-content;
+    border-radius: 5px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.jposs {
+    background-image: url(../imagens/erro.ico);
+    background-repeat: no-repeat;
+    background-position: left center;
+    color: #f77f7f;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 200px;
+    height: max-content;
+    border-radius: 5px;
+    font-style: italic;
+    font-weight: bold;
+
+}
